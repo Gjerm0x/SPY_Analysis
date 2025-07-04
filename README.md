@@ -121,17 +121,6 @@ print(results_df)
 * Combine models (ensemble) to stabilize mid‑range predictions.
 * Deploy an interactive app: input volume percentile → predicted return.
 
-## File Structure
-
-```
-SPY_Analysis/
-├── data/                   # CSV data
-├── notebooks/              # Jupyter analyses (cleaning → modeling)
-├── src/                    # Reusable functions (loader, features, tests)
-├── requirements.txt        # Environment specs
-└── README.md               # This overview
-```
-
 ## License
 [MIT](LICENSE)
 
